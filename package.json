@@ -1,0 +1,19 @@
+{
+  "name": "movieinfo",
+  "version": "1.0.0",
+  "description": "App that fetches and displays movie info from the OMDb API.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Henry Scholl",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "ejs": "^2.5.6",
+    "express": "^4.15.2",
+    "express-sanitizer": "^1.0.2",
+    "request": "^2.81.0"
+  }
+}
