@@ -1,4 +1,4 @@
-# Project Title
+# Movie Night
 
 Simple app built with Javascript, jQuery and Node.js that uses the [OMDb API](http://omdbapi.com/) to fetch and display movie info.
 
